@@ -1,0 +1,6 @@
+config:
+  host: devx-helloworld-springboot-9dvms.nonp-dev-4.use1.eng-nonprod.flexport.internal
+  namespace: devx-helloworld-springboot-9dvms-dev
+  image:
+    name: artifactory.flexport.io/devx-helloworld-springboot-9dvms-docker-dev-local/devx-helloworld-springboot-9dvms
+    tag: 0.0.1-SNAPSHOT
